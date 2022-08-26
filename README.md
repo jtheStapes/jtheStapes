@@ -1,1 +1,1 @@
-My name is Josh and I am an aspiring Full Stack Developer. I recently graduated from Sam Houston State University with a Bachelor of Science in Computer Science. While looking for my first job, I am working on many Web Development projects in my free time utilizing HTML, CSS, and JavaScript. 
+My name is Josh and I am an aspiring Full Stack Developer. I recently graduated from Sam Houston State University with a Bachelor of Science in Computer Science. While looking for my first job, I am working through The Odin Project in my free time utilizing HTML, CSS, and JavaScript. 
